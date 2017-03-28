@@ -32,7 +32,7 @@
 			"src/commands"
 		]
 	},
-	"minimum-stability" : "stable",
+	"minimum-stability" : "dev",
 	"support" : {
 		"source" : "https://github.com/renshipt/laravel-portugal-cities",
 		"issues" : "https://github.com/renshipt/laravel-portugal-cities/issues"
