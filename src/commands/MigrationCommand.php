@@ -1,5 +1,5 @@
 <?php
-namespace ijeffro\Cities;
+namespace Renshipt\Cities;
 
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputOption;
