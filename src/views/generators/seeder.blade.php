@@ -17,7 +17,7 @@ class CitiesSeeder extends Seeder {
         foreach ($cities as $cityId => $city){
             DB::table(\Config::get('cities.table_name'))->insert(array(
                 'id' => $cityId,
-                'district' => $city['district],
+                'district' => $city['district'],
                 'country_code' => $city['country_code'],
                 'name' => $city['name'],
             ));
