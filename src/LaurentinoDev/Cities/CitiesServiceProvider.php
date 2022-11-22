@@ -1,6 +1,6 @@
 <?php
 
-namespace Renshipt\Cities;
+namespace Laurentinodev\Cities;
 
 use Illuminate\Support\ServiceProvider;
 

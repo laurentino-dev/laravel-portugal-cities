@@ -1,5 +1,5 @@
 <?php
-namespace Renshipt\Cities;
+namespace Laurentinodev\Cities;
 
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputOption;

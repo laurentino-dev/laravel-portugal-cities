@@ -17,13 +17,13 @@ Run `composer update` to pull down the latest version of City List.
 Edit `app/config/app.php` and add the `provider` and `filter`
 
     'providers' => [
-        Renshipt\Cities\CitiesServiceProvider::class,
+        Laurentinodev\Cities\CitiesServiceProvider::class,
     ]
 
 Now add the alias.
 
     'aliases' => [
-        'Cities' => Renshipt\Cities\CitiesFacade::class,
+        'Cities' => Laurentinodev\Cities\CitiesFacade::class,
     ]
 
 
