@@ -6,11 +6,11 @@ Laravel Portufal Cities is a bundle for Laravel.
 
 ## Installation
 
-Run `composer require renshipt/laravel-portugal-cities dev-master` in your Laravel root directory to install the latest version.
+Run `composer require laurentino-dev/laravel-portugal-cities dev-master` in your Laravel root directory to install the latest version.
 
-Or add `renshipt/laravel-portugal-cities` to `composer.json`.
+Or add `laurentino-dev/laravel-portugal-cities` to `composer.json`.
 
-    "renshipt/laravel-portugal-cities": "dev-master"
+    "laurentino-dev/laravel-portugal-cities": "dev-master"
 
 Run `composer update` to pull down the latest version of City List.
 
