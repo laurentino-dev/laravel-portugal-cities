@@ -1,14 +1,11 @@
 {
-	"name" : "renshipt/laravel-portugal-cities",
+	"name" : "laurentino-dev/laravel-portugal-cities",
 	"description" : "Laravel Portugal Cities is a bundle for Laravel.",
 	"type" : "laravel-library",
 	"authors" : [{
 			"name" : "Laurentino Correia",
-			"email" : "laurentino@renshi.pt",
-			"homepage" : "https://www.renshi.pt",
-			"role" : "developer"
-		}, {
-			"name" : "renshipt",
+			"email" : "talk@laurentino.dev",
+			"homepage" : "https://laurentino.dev",
 			"role" : "developer"
 		}
 	],
@@ -17,7 +14,7 @@
 		"cities",
 		"portugal"
 	],
-	"homepage" : "https://github.com/renshipt/laravel-portugal-cities",
+	"homepage" : "https://github.com/laurentino-dev/laravel-portugal-cities",
 	"license" : [
 		"MIT"
 	],
@@ -26,7 +23,7 @@
 	},
 	"autoload" : {
 		"psr-0" : {
-			"Renshipt\\Cities" : "src/"
+			"Laurentinodev\\Cities" : "src/"
 		},
 		"classmap" : [
 			"src/commands"
@@ -34,7 +31,7 @@
 	},
 	"minimum-stability" : "stable",
 	"support" : {
-		"source" : "https://github.com/renshipt/laravel-portugal-cities",
-		"issues" : "https://github.com/renshipt/laravel-portugal-cities/issues"
+		"source" : "https://github.com/laurentino-dev/laravel-portugal-cities",
+		"issues" : "https://github.com/laurentino-dev/laravel-portugal-cities/issues"
 	}
 }
